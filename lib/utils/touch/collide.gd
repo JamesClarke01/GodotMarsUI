@@ -1,8 +1,8 @@
 extends Node3D
 ## Calculates collision for fingers and FingerAreas
 
-const Finger = preload ("res://addons/immersive-home-ui/lib/utils/touch/finger.gd")
-const TipCollider = preload ("res://addons/immersive-home-ui/content/system/hands/tip_collider.tscn")
+const Finger = preload ("res://addons/mars-ui/lib/utils/touch/finger.gd")
+const TipCollider = preload ("res://addons/mars-ui/content/system/hands/tip_collider.tscn")
 
 var tip: Node3D
 var tip_body: RigidBody3D

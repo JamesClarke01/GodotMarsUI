@@ -1,10 +1,10 @@
 extends XRController3D
 
-const Pointer = preload ("res://addons/immersive-home-ui/lib/utils/pointer/pointer.gd")
-const Initiator = preload ("res://addons/immersive-home-ui/lib/utils/pointer/initiator.gd")
-const Finger = preload ("res://addons/immersive-home-ui/lib/utils/touch/finger.gd")
-const Touch = preload ("res://addons/immersive-home-ui/lib/utils/touch/touch.gd")
-const Collide = preload ("res://addons/immersive-home-ui/lib/utils/touch/collide.gd")
+const Pointer = preload ("res://addons/mars-ui/lib/utils/pointer/pointer.gd")
+const Initiator = preload ("res://addons/mars-ui/lib/utils/pointer/initiator.gd")
+const Finger = preload ("res://addons/mars-ui/lib/utils/touch/finger.gd")
+const Touch = preload ("res://addons/mars-ui/lib/utils/touch/touch.gd")
+const Collide = preload ("res://addons/mars-ui/lib/utils/touch/collide.gd")
 
 @onready var ray: RayCast3D = $Raycast
 @onready var hand: Node3D = $hand_r

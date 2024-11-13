@@ -1,7 +1,7 @@
 extends RayCast3D
 
-const Pointer = preload ("res://addons/immersive-home-ui/lib/utils/pointer/pointer.gd")
-const Initiator = preload ("res://addons/immersive-home-ui/lib/utils/pointer/initiator.gd")
+const Pointer = preload ("res://addons/mars-ui/lib/utils/pointer/pointer.gd")
+const Initiator = preload ("res://addons/mars-ui/lib/utils/pointer/initiator.gd")
 
 @onready var cursor: Node3D = $Cursor
 @onready var default_cursor: Sprite3D = $Cursor/DefaultCursor

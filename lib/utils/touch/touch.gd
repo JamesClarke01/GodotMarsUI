@@ -1,7 +1,7 @@
 extends Node
 ## Handles touch events and emits them to the EventSystem
 
-const Finger = preload ("res://addons/immersive-home-ui/lib/utils/touch/finger.gd")
+const Finger = preload ("res://addons/mars-ui/lib/utils/touch/finger.gd")
 
 ## Record<Finger.Type, Area3D>
 var finger_areas: Dictionary

@@ -10,7 +10,7 @@ path="res://.godot/imported/ray.obj-27c794a494035ded4f086ab90c159fb1.mesh"
 
 files=["res://.godot/imported/ray.obj-27c794a494035ded4f086ab90c159fb1.mesh"]
 
-source_file="res://addons/immersive-home-ui/assets/models/ray/ray.obj"
+source_file="res://addons/mars-ui/assets/models/ray/ray.obj"
 dest_files=["res://.godot/imported/ray.obj-27c794a494035ded4f086ab90c159fb1.mesh", "res://.godot/imported/ray.obj-27c794a494035ded4f086ab90c159fb1.mesh"]
 
 [params]

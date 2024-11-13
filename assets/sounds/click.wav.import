@@ -7,7 +7,7 @@ path="res://.godot/imported/click.wav-3a02bfa2b628e6400af7062e61104b00.sample"
 
 [deps]
 
-source_file="res://addons/immersive-home-ui/assets/sounds/click.wav"
+source_file="res://addons/mars-ui/assets/sounds/click.wav"
 dest_files=["res://.godot/imported/click.wav-3a02bfa2b628e6400af7062e61104b00.sample"]
 
 [params]

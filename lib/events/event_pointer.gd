@@ -2,7 +2,7 @@ extends EventBubble
 ## Triggered when the raycast of the controller or hand hits or clicks on an object.
 class_name EventPointer
 
-const Initiator = preload ("res://addons/immersive-home-ui/lib/utils/pointer/initiator.gd")
+const Initiator = preload ("res://addons/mars-ui/lib/utils/pointer/initiator.gd")
 
 ## Either the controller or the hand that triggered the event.
 var initiator: Initiator

@@ -7,7 +7,7 @@ path="res://.godot/imported/message-incoming.mp3-9cdd94493d0bce3d4440ab39c537219
 
 [deps]
 
-source_file="res://addons/immersive-home-ui/assets/sounds/message-incoming.mp3"
+source_file="res://addons/mars-ui/assets/sounds/message-incoming.mp3"
 dest_files=["res://.godot/imported/message-incoming.mp3-9cdd94493d0bce3d4440ab39c5372191.mp3str"]
 
 [params]

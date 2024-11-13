@@ -12,7 +12,7 @@ metadata={
 
 [deps]
 
-source_file="res://addons/immersive-home-ui/assets/models/ray/ray.png"
+source_file="res://addons/mars-ui/assets/models/ray/ray.png"
 dest_files=["res://.godot/imported/ray.png-daddef2034f82c7687c8f513ca132421.s3tc.ctex", "res://.godot/imported/ray.png-daddef2034f82c7687c8f513ca132421.etc2.ctex"]
 
 [params]

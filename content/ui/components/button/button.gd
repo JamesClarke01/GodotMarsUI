@@ -7,7 +7,7 @@ signal on_button_down()
 signal on_button_up()
 signal on_toggled(active: bool)
 
-#const IconFont = preload ("res://addons/immersive-home-ui/assets/icons/icons.tres")
+#const IconFont = preload ("res://addons/mars-ui/assets/icons/icons.tres")
 const ECHO_WAIT_INITIAL = 0.5
 const ECHO_WAIT_REPEAT = 0.1
 

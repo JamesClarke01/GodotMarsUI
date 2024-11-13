@@ -1,6 +1,6 @@
 extends Node
 
-const Initiator = preload ("res://addons/immersive-home-ui/lib/utils/pointer/initiator.gd")
+const Initiator = preload ("res://addons/mars-ui/lib/utils/pointer/initiator.gd")
 
 ## Prefix for the function names to be called
 const FN_PREFIX = "_on_"

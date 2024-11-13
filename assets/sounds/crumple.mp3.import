@@ -7,7 +7,7 @@ path="res://.godot/imported/crumple.mp3-f9c129bdc464548d3bf4051b225517da.mp3str"
 
 [deps]
 
-source_file="res://addons/immersive-home-ui/assets/sounds/crumple.mp3"
+source_file="res://addons/mars-ui/assets/sounds/crumple.mp3"
 dest_files=["res://.godot/imported/crumple.mp3-f9c129bdc464548d3bf4051b225517da.mp3str"]
 
 [params]
