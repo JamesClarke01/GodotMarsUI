@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://fwakslh383mq"
-path="res://.godot/imported/message-incoming.mp3-9cdd94493d0bce3d4440ab39c5372191.mp3str"
+path="res://.godot/imported/message-incoming.mp3-f55f4cb730bc6cfb43159eaad991f2aa.mp3str"
 
 [deps]
 
 source_file="res://addons/mars-ui/assets/sounds/message-incoming.mp3"
-dest_files=["res://.godot/imported/message-incoming.mp3-9cdd94493d0bce3d4440ab39c5372191.mp3str"]
+dest_files=["res://.godot/imported/message-incoming.mp3-f55f4cb730bc6cfb43159eaad991f2aa.mp3str"]
 
 [params]
 

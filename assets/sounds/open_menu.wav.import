@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bdh37tnn3l31g"
-path="res://.godot/imported/open_menu.wav-410f9e94dbe9942810b584585cc446cd.sample"
+path="res://.godot/imported/open_menu.wav-7857d12c23b45130aa499672213470b7.sample"
 
 [deps]
 
 source_file="res://addons/mars-ui/assets/sounds/open_menu.wav"
-dest_files=["res://.godot/imported/open_menu.wav-410f9e94dbe9942810b584585cc446cd.sample"]
+dest_files=["res://.godot/imported/open_menu.wav-7857d12c23b45130aa499672213470b7.sample"]
 
 [params]
 
